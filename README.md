@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/manideep-p-387163255">
+  <a href="www.linkedin.com/in/manideepp">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Manideep2k4">
@@ -120,7 +120,7 @@ I'm a fresher passionate about building **production-grade AI/ML systems** — f
 ## 📫 Let's Connect
 
 I'm actively looking for **Data Science / ML / SDE fresher roles** in India.  
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/manideep-p-387163255) or open an issue on any of my repos!
+Feel free to reach out via [LinkedIn](www.linkedin.com/in/manideepp) or open an issue on any of my repos!
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Manideep2k4&color=blueviolet&style=flat-square" />
