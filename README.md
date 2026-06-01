@@ -90,7 +90,7 @@ I'm a fresher passionate about building **production-grade AI/ML systems** — f
 
 ---
 
-### 🌐 [Portfolio Website](https://github.com/Manideep2k4/portfolio)
+### 🌐 [Portfolio Website](https://manideep-portfolio-ashy.vercel.app/)
 > Personal portfolio built from scratch
 
 `HTML` `CSS` `JavaScript`
