@@ -100,8 +100,12 @@ I'm a fresher passionate about building **production-grade AI/ML systems** — f
 ## 📚 Research & Publications
 
 - 📝 **Published Research Paper** — AI/ML domain
+- 📝 **"A Domain-Adapted Multi-Source Ensemble Framework for Real-Time Crop Recommendation in Indian Agro-Zones"**  
+  *Accepted · ICISESSC 2026 — International Conference on Intelligent Systems in Engineering, Secured Systems and Cyber Security*  
+  📍 IILM University, Greater Noida · April 9–10, 2026
+  
 - 📖 **Book Chapter** contributor
-
+- 📖 **"Machine Learning for Agentic Behavior"** — Chapter in *Autonomous Intelligence: Designing the Future of Agentic Systems*
 ---
 
 ## 📊 GitHub Stats
